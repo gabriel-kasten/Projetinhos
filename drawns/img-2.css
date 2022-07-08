@@ -1,0 +1,83 @@
+.circle {
+    height: 150px;
+    width: 150px;
+    background-color: #F3AC3C;
+    border-radius: 50%;
+    margin: 75px auto;
+}
+
+.dot {
+    background-color: #998235;
+    border-radius: 50%;
+    position: relative;
+}
+
+.dot-big {
+    height: 40px;
+    width: 40px;
+    top: 25%;
+    left: 20%;
+}
+
+.dot-medium {
+    height: 25px;
+    width: 25px;
+    top: 40%;
+    left: 40%;
+}
+
+.dot-small {
+    height: 15px;
+    width: 15px;
+    top: -20%;
+    left: 65%;
+}
+
+.bar {
+    height: 12px;
+    border-radius: 20px;
+    background-color: #F3AC3C;
+    position: relative;
+}
+
+.bar-1 {
+    width: 60px;
+    transform: rotate(90deg);
+    bottom: 85%;
+    left: 40%;
+}
+
+.bar-2 {
+    width: 65px;
+    transform: rotate(-35deg);
+    bottom: 75%;
+    left: 65%;
+}
+
+.bar-3 {
+    width: 65px;
+    transform: rotate(30deg);
+    bottom: 45%;
+    left: 65%;
+}
+
+.bar-4 {
+    width: 50px;
+    transform: rotate(90deg);
+    bottom: 35%;
+    left: 42%;
+}
+
+.bar-5 {
+    width: 40px;
+    transform: rotate(-35deg);
+    bottom: 50%;
+    left: 20%;
+}
+
+.bar-6 {
+    width: 35px;
+    transform: rotate(30deg);
+    bottom: 85%;
+    left: 20%;
+}

@@ -1,0 +1,34 @@
+.outer
+    {
+        background-color: #243083;
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+        margin: 50px auto;
+    }
+
+    .inner
+    {
+        background-color: #6592CF;
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+        position: relative;
+        bottom: 50px;
+        left: 50px;
+    }
+
+    .box
+    {
+        background-color: #6592CF;
+        height: 50%;
+        width: 50%;
+    }
+
+    .box-strip{
+        background-color: #243083;
+        position: absolute;
+        height: 100px;
+        width: 50px;
+        margin: 50px 50px;
+    }
